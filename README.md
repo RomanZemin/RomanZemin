@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Fullstack developer (.NET, Vue.js)
 
+
 ------------------------------------
 Hey there! I'm Roman Suhih, a passionate and dedicated Fullstack C# developer with a strong foundation in both backend and frontend technologies. My expertise lies in building robust, scalable web applications using the .NET ecosystem for backend development, paired with modern frontend frameworks like React for creating intuitive and responsive user interfaces. With a focus on clean, maintainable code and a deep understanding of the software development lifecycle, I strive to deliver solutions that not only meet the needs of the users but are also optimized for performance, security, and scalability. Whether it's developing RESTful APIs, implementing complex business logic, or designing dynamic user experiences, I'm always eager to tackle new challenges and push the boundaries of what technology can achieve. Having a strong background in C# development, I've worked extensively with ASP.NET Core, Entity Framework, and various other tools and libraries that help me streamline backend processes. On the frontend, my go-to is React, but I'm also comfortable working with other JavaScript frameworks if needed. Collaboration and continuous learning are key to my approach, and I always stay updated with the latest industry trends and best practices. Feel free to reach out if you're looking for a dedicated developer who can bring your ideas to life from concept to deployment!
 
